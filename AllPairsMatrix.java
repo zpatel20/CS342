@@ -2,7 +2,6 @@
  * Calculate the minimum distance between all sets of points, creating an n x n matrix.
  * Do this by applying Dijkstra's one-point-all-pairs algorithm n times, once from the perspective of each point.
  *
- * Created by Dale Reed 9/5/2016 for UIC CS 342, program 1
  */
 public class AllPairsMatrix {
 
