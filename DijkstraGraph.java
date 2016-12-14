@@ -5,7 +5,6 @@ import java.util.Collections;       // Class for Collection-related algorithms. 
  * Finding the single-point all-pairs shortest paths using Dijkstra's algorithm.
  * This assumes you already have a graph represented by adjacency lists, and a starting vertex.
  *
- * Created by reed2 on 9/4/16 for UIC CS 342, Program 1
  */
 public class DijkstraGraph {
 
