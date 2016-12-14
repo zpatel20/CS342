@@ -1,7 +1,6 @@
 /**
  * (Name, city) for each person.
  *
- * Created by reed2 on 9/5/16 for UIC CS 342, Program 1
  */
 public class Participant {
 
