@@ -6,7 +6,6 @@ import java.util.Scanner;
 /**
  * Read city distance information and create the symmetric adjacency lists.
  *
- * Created by reed2 on 9/4/16.
  *
  * Input file looks like:  <br>
  *    711         <br>
