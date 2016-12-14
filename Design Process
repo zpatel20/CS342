@@ -1,0 +1,20 @@
+Design Process is shown below.  At each step tests were created in the Driver code.
+
+- CityState Class
+- CityStateList: Read in datafile into ArrayList of CityState objects
+
+- CityDistance Class
+- CityDistancesAdjacencyList: Read in datafile into Adjacency list representation, created by an ArrayList of ArrayLists.
+
+- DijkstraGraph: Given the city distances and a starting city number, find a shortest path from the starting city to every other city.
+
+- AllPairsShortest: Create an adjacency matrix and run Dijkstra's from the perspective of each starting city
+
+- Participants Class
+- ParticipantList: Read in participants datafile
+
+- Driver: Use AllPairsShortest to find city with minimum average distance.
+          Discovered that "average" is perhaps not the best metric.
+
+          Driver is the starting point.
+
