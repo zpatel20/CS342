@@ -3,7 +3,6 @@
  * temporary list is created to be sorted. The CityDistance class implements Comparable, which means it has to
  * implement the compareTo() function, which is subsequently used in sorting an ArrayList of CityDistances
  *
- * Created by reed2 on 9/4/16 for UIC CS 342, Program 1
  */
 public class CityDistance implements Comparable<CityDistance>
 {
