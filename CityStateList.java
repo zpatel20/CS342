@@ -11,7 +11,6 @@ import java.util.Scanner;
  *   ...    <br>
  * where the first line indicates how many cities there are, followed by that many city, state pairs.
  *
- * Created by reed on 9/3/16 for UIC CS 342, Program 1
  */
 public class CityStateList {
 
