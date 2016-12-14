@@ -1,7 +1,6 @@
 /**
  * Tuple used to store city name and state abbreviation.
  *
- * Created by reed2 on 9/3/16 for UIC CS 342, Program 1
  */
 
 
