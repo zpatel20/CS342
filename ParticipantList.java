@@ -6,7 +6,6 @@ import java.util.Scanner;
 /**
  * List of all participants, read in from a datafile, stored as an ArrayList
  *
- * Created by reed2 on 9/5/16 for UIC CS 342, Program 1
  */
 public class ParticipantList {
 
