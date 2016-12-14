@@ -2,7 +2,6 @@ import java.util.ArrayList;
 /**
  * Read from files, create adjacency lists, create min distance matrix, and find min average city.
  *
- * Created by reed2 on 9/3/16 for UIC CS 342, Program 1
  */
 public class Driver {
 
